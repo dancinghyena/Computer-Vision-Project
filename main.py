@@ -5,9 +5,8 @@ import matplotlib.pyplot as plt
 import os
 import argparse
 
-# ──────────────────────────────────────────────────────────────────────────────
 # Step 1 – Pre-processing
-# ──────────────────────────────────────────────────────────────────────────────
+
 def preprocess(image_bgr):
     """Convert to greyscale, apply CLAHE for contrast, and blur heavily
     to suppress background texture while preserving strong coin edges."""
