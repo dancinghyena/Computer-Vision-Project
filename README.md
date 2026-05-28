@@ -78,10 +78,6 @@ Input image
     → annotated output + optional evaluation metrics
 ```
 
-## Author
-
-**Ali Kele** — [dancinghyena](https://github.com/dancinghyena)
-
 ## License
 
 Academic / coursework project. Use and modify as needed with attribution.
